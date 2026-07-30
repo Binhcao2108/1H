@@ -1,0 +1,8 @@
+{
+  "name": "1H Bonus Download",
+  "description": "Ứng dụng mô phỏng tải xuống tiền thưởng 1H và kiểm tra số dư ví.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
